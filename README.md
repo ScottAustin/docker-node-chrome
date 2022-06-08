@@ -1,4 +1,4 @@
-# markhobson/node-chrome
+# scottAustin/node-chrome
 
 Docker image for Node.js automated UI tests.
 
@@ -8,8 +8,10 @@ Includes:
 * Node.js 14.x
 * Chrome (latest)
 
-Available on [Docker Hub](https://hub.docker.com/r/markhobson/node-chrome/).
+Available on [Docker Hub](https://hub.docker.com/r/scottaustinmlc/node14-chrome/).
 
 ## Demo
 
 See the [demo](demo) npm project to see how this Docker image can be used to run UI tests. The [run.sh](demo/run.sh) script builds the project within the latest version of this image on Docker Hub.
+
+Originally  markhobson/node-chrome
